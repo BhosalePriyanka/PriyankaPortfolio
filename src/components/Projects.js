@@ -17,7 +17,7 @@ Fisrt time buyer has to create account.For second time purchase user can login a
 
 <Button className='m-3'><a href='https://bhosalepriyanka.github.io/Ecart-project/' target="_blank" style={{color:"white"}}>Website</a></Button>
 <Button className='m-3'><a href="https://github.com/BhosalePriyanka/Ecart-project" target="_blank" style={{color:"white"}}>Code</a></Button>
-<embed src='https://bhosalepriyanka.github.io/Ecart-project/'  style={{width:"400px", height:"400px"}}/>
+<embed src='https://bhosalepriyanka.github.io/Ecart-project/' className = "mx-auto" style={{width:"100%", height:"400px"}}/>
 </Col>
 <Col>
 <h2>Hotelbooking Website</h2>
@@ -27,7 +27,7 @@ Fisrt time buyer has to create account.For second time purchase user can login a
 <p>Skills I used here are - React, React Router, Bootstarp, React-Bootstarp, CSS, JSX</p>
 <Button className='m-3'><a href='https://bhosalepriyanka.github.io/HotelWebsite/' target="_blank" style={{color:"white"}}>Website</a></Button>
 <Button className='m-3'><a href="https://github.com/BhosalePriyanka/HotelWebsite/tree/master" target="_blank" style={{color:"white"}}>Code</a></Button>
-<embed src="https://bhosalepriyanka.github.io/HotelWebsite/"  style={{width:"400px", height:"400px"}} ></embed>
+<embed  className = "mx-auto" style={{width:"100%", height:"400px"}} src="https://bhosalepriyanka.github.io/HotelWebsite/"></embed>
 </Col>
 </Row>
 
@@ -39,7 +39,7 @@ Fisrt time buyer has to create account.For second time purchase user can login a
 <br/><br/>
 <Button className='m-3'><a href='https://myfoodrecipe-app.herokuapp.com' target="_blank" style={{color:"white"}}>Website</a></Button>
 <Button className='m-3'><a href="https://github.com/BhosalePriyanka/Food-Recipe" target="_blank" style={{color:"white"}}>Code</a></Button>
-<embed src="https://myfoodrecipe-app.herokuapp.com" style={{width:"400px", height:"400px"}}  /> 
+<embed src="https://myfoodrecipe-app.herokuapp.com" className = "mx-auto" style={{width:"100%", height:"400px"}} /> 
 </Col>
 <Col>
 <h2>Birthday Reminder App</h2>
@@ -48,7 +48,7 @@ Fisrt time buyer has to create account.For second time purchase user can login a
   <p>Skills I have used here are - React, Bootstarp, JSX</p>
 <Button className='m-3'><a href='https://bhosalepriyanka.github.io/BirthdayReminder/' target="_blank" style={{color:"white"}}>Website</a></Button>
 <Button className='m-3'><a href="https://github.com/BhosalePriyanka/BirthdayReminder" target="_blank" style={{color:"white"}}>Code</a></Button>
-<embed src="https://bhosalepriyanka.github.io/BirthdayReminder/"  style={{width:"400px", height:"400px"}} />
+<embed src="https://bhosalepriyanka.github.io/BirthdayReminder/"  className = "mx-auto" style={{width:"100%", height:"400px"}}/>
 </Col>
 </Row>
 
