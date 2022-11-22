@@ -13,8 +13,6 @@ function Projects() {
 <p>It is responsive website for Ecommerce business.User can add favourite products in cart.
 Fisrt time buyer has to create account.For second time purchase user can login and enjoy thier shopping.</p>
 <p>Skills I used here are - React,Redux, React Router, JSX, React-Bootstarp, Bootstarp, CSS</p>
-<br/>
-
 <Button className='m-3'><a href='https://bhosalepriyanka.github.io/Ecart-project/' target="_blank" style={{color:"white"}}>Website</a></Button>
 <Button className='m-3'><a href="https://github.com/BhosalePriyanka/Ecart-project" target="_blank" style={{color:"white"}}>Code</a></Button>
 <embed src='https://bhosalepriyanka.github.io/Ecart-project/' className = "mx-auto" style={{width:"100%", height:"400px"}}/>
