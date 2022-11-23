@@ -21,7 +21,9 @@ I have used following skill set-
     <li>Version Control System - Git.</li>
 </ul>
 
-<a href='./PriyankaBhosale.pdf' download='PriyankaBhosale.pdf'>
+
+
+<a href="PriyankaBhosale.pdf" download='PriyankaBhosale.pdf'>
 <Button>Download Resume</Button>
 </a>
   
