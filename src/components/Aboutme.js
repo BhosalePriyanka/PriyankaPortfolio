@@ -1,6 +1,6 @@
 import React from 'react'
-import { Col, Container, Row, Button } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
+import {  Container,  Button } from 'react-bootstrap'
+
 
 
 function Aboutme() {
@@ -21,7 +21,7 @@ I have used following skill set-
     <li>Version Control System - Git.</li>
 </ul>
 
-<a href='PriyankaBhosale.pdf' download='priyankaBhosale.pdf'>
+<a href='./PriyankaBhosale.pdf' download='PriyankaBhosale.pdf'>
 <Button>Download Resume</Button>
 </a>
   
