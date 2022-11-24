@@ -11,6 +11,7 @@ import Projects from './components/Projects';
 
 
 
+
 function App() {
   return (
     <>
@@ -21,6 +22,7 @@ function App() {
         <Route exact path  = "/Aboutme" element = {<Aboutme/>} />
         <Route exact path = "/Contactme" element = {<Contactme/>}/>
         <Route exact path = '/Projects' element = {< Projects/>}/>
+   
   
       </Routes>
 

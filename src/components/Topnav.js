@@ -13,6 +13,8 @@ export const Topnav= () => {
         <NavLink as={Link} to = {`./Aboutme`} style={{color:'pink'}} >ABOUT</NavLink>
         <NavLink as={Link} to = {`./Contactme`} style={{color:'pink'}}>CONTACT</NavLink>
         <NavLink as={Link} to = {`./Projects`} style={{color:'pink'}} >PROJECT</NavLink>
+      
+      
 </Nav>
 </Navbar.Collapse>
 </Container>
