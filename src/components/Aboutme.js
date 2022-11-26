@@ -23,7 +23,7 @@ I have used following skill set-
 
 
 
-<a href="PriyankaBhosale.pdf" download='PriyankaBhosale.pdf'>
+<a href="./PriyankaBhosale.pdf" download='PriyankaBhosale.pdf'>
 <Button>Download Resume</Button>
 </a>
   
