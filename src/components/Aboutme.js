@@ -25,12 +25,7 @@ I have used following skill set-
     <li>Agile Process</li>
 </ul>
 
-
-
 <a href={resume} download = 'Resume'><Button>DOWNLOAD</Button> </a>
-
-
-
 </div>
 </div>
 
