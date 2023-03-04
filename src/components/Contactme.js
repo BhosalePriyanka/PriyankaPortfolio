@@ -14,15 +14,15 @@ export default function Contactme() {
      
     <div className="m-5">
     
-    <span style={{fontSize:"3rem"}} className="rounded p-2 m-3">
-    <a href="https://www.linkedin.com/in/priyanka-bhosale-3360b6b6/" target="_blank" style = {{ backgroundColor:"blue", color:"white"}}> 
-    <AiFillLinkedin/> 
+    <span style={{fontSize:"5rem"}}>
+    <a href="https://www.linkedin.com/in/priyanka-bhosale-3360b6b6/"  target="_blank" style = {{backgroundColor:"blue",  color:"white"}}> 
+    <AiFillLinkedin className='rounded hover-zoom'/> 
     </a>
      </span>
     
-    <span style={{fontSize:"3rem"}} className="rounded p-2 m-3">
+    <span style={{fontSize:"5rem"}} className="rounded p-2 m-3">
     <a href="https://github.com/BhosalePriyanka" target="_blank" style={{ backgroundColor: "black", color:"white"}}> 
-      <AiFillGithub/>
+      <AiFillGithub className='justify-center hover-zoom'/>
       </a>
       </span>
     </div>

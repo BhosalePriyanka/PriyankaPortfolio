@@ -83,3 +83,4 @@ body{background-image: url(./Image/img.jpeg) ; background-size:cover;color:white
     transform: rotate(360deg);
   }
 }
+.hover-zoom:hover{  transform: scale(0.8,0.8);}

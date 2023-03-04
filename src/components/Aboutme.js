@@ -8,9 +8,9 @@ function Aboutme() {
   return (
 <>
 
-<Container style={{height:"100vh", position:"relative",  fontSize:"1rem"}}>
-<div style={{position:'absolute',top: "50%" ,left:"50%", transform:"translate(-50%,-50%)"}}>
-<h2 className='text-uppercase'>About Me</h2>
+<Container  className="m-5 p-5" style={{height:"100vh", position:"relative",  fontSize:"1rem", justifyContent:"center"}}>
+<div>
+<h2 className='text-uppercase text-center'>About Me</h2>
 <div> I have completed my bachelor in computer science.
 I have worked as front end developer. I have 2 years experience in  responsive web application design, development and implementation. 
 I have done manual as well automation testing. 
@@ -25,7 +25,7 @@ I have used following skill set-
     <li>Agile Process</li>
 </ul>
 
-<a href={resume} download = 'Resume'><Button>DOWNLOAD</Button> </a>
+<a href={resume} download = 'Resume'><Button>RESUME DOWNLOAD</Button> </a>
 </div>
 </div>
 
