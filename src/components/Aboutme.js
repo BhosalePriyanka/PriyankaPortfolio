@@ -1,6 +1,6 @@
 import React from 'react'
 import {  Container,  Button, Image } from 'react-bootstrap'
-import resume from '../Image/PriyankaBhosaleUpdated.pdf'
+import resume from '../Image/PriyankaBhosale.pdf'
 
 
 
@@ -12,7 +12,7 @@ function Aboutme() {
 <div>
 <h2 className='text-uppercase text-center'>About Me</h2>
 <div> I have completed my bachelor in computer science.
-I have worked as front end developer. I have 2 years experience in  responsive web application design, development and implementation. 
+I have worked as front end developer. I have 3 years experience in  responsive web application design, development and implementation. 
 I have done manual as well automation testing. 
 
 I have used following skill set-
