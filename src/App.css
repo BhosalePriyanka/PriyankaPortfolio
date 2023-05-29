@@ -49,6 +49,17 @@
 
 body{background-image: url(./Image/img.jpeg) ; background-size:cover;color:white; background-repeat: no-repeat; height: auto;}
 
+
+.contain:hover .conImage{opacity: 0.3;}
+.contain:hover .centerText{visibility: visible;}
+.centerText{visibility: hidden;}
+
+
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
