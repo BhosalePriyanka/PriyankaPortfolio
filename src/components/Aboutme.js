@@ -1,6 +1,6 @@
 import React from 'react'
 import {  Container,  Button, Image } from 'react-bootstrap'
-import resume from '../Image/PriyankaBhosale_MERN_STACK.pdf'
+import resume from '../Image/PriyankaBhosale.pdf'
 
 
 

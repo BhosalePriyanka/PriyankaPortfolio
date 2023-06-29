@@ -63,25 +63,6 @@ This prevents the opened document from obtaining any information about the page 
 </Col>
 
 <Col>
-
-<h2 className='text-uppercase'>4.Birthday Reminder App</h2>
-<div className='position-relative contain'>
-<a href='https://birthday-reminder-app-frontend.onrender.com' target="_blank" style={{color:"white"}}>
-<Image src={Birthday} fluid style = {{height:"400px"}} className="conImage"/>
-<p className='position-absolute centerText'  style={{top:"50%", left:"50%" , transform: "translate(-50%,-50%)" , fontSize:"1.5rem" }}>Visit Website</p>
-</a>
-</div>
-<p>This is responsive web app for birthday reminder. We can store data in application about name, date of birthday of person.
-  This app can remind birthday and upcoming birthdays.</p>
-  <p>Skills I have used here are - React,Redux,React-Bootstrap, Bootstarp, JSX,JSON-Server</p>
- 
-{/* <Button className='m-3'><a href="https://github.com/BhosalePriyanka/MERN_Birthday_Reminder_App.git" target="_blank" style={{color:"white"}}>Code</a></Button>
-<embed src="https://bhosalepriyanka.github.io/BirthdayReminder/"  className = "mx-auto" style={{width:"100%", height:"30rem"}}/> */}
-</Col>
-</Row>
-
-<Row className='m-5'>
-<Col>
 <h2 className='text-uppercase'>5.Exercise Monitor App</h2>
 <div className='position-relative contain'>
 <a href='https://frontend-mern-u5x0.onrender.com' target="_blank" style={{color:"white"}}>
@@ -97,6 +78,25 @@ This prevents the opened document from obtaining any information about the page 
 
 {/* <Button className='m-3'><a href="https://github.com/BhosalePriyanka/MERN_STACK" target="_blank" style={{color:"white"}}>Code</a></Button>
 <embed src="https://frontend-mern-u5x0.onrender.com"  className = "mx-auto" style={{width:"100%", height:"30rem"}}/> */}
+</Col>
+</Row>
+
+<Row className='m-5'>
+<Col>
+{/* <h2 className='text-uppercase'>4.Birthday Reminder App</h2>
+<div className='position-relative contain'>
+<a href='https://birthday-reminder-app-frontend.onrender.com' target="_blank" style={{color:"white"}}>
+<Image src={Birthday} fluid style = {{height:"400px"}} className="conImage"/>
+<p className='position-absolute centerText'  style={{top:"50%", left:"50%" , transform: "translate(-50%,-50%)" , fontSize:"1.5rem" }}>Visit Website</p>
+</a>
+</div>
+<p>This is responsive web app for birthday reminder. We can store data in application about name, date of birthday of person.
+  This app can remind birthday and upcoming birthdays.</p>
+<p>Skills I have used here are - React,Redux,React-Bootstrap, Bootstarp, JSX,JSON-Server</p> */}
+ 
+{/* <Button className='m-3'><a href="https://github.com/BhosalePriyanka/MERN_Birthday_Reminder_App.git" target="_blank" style={{color:"white"}}>Code</a></Button>
+<embed src="https://bhosalepriyanka.github.io/BirthdayReminder/"  className = "mx-auto" style={{width:"100%", height:"30rem"}}/> */} 
+
  </Col>
 </Row>
 
