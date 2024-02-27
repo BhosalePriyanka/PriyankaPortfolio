@@ -14,14 +14,14 @@ function Projects() {
 <Col>
 <h2 className='text-uppercase'>1.E-commerce Website</h2>
 <div className='position-relative contain'>
-<a href='https://e-commerceproject.onrender.com' rel = "noreferrer" target="_blank"  style={{color:"white"}}>
+<a href='https://ecommerce-mern-frontend-ztqp.onrender.com' rel = "noreferrer" target="_blank"  style={{color:"white"}}>
 <Image src={Ecom} fluid style = {{height:"400px"}}className="conImage"/>
 <p className='position-absolute centerText'  style={{top:"50%", left:"50%" , transform: "translate(-50%,-50%)" , fontSize:"1.5rem" }}>Visit Website</p>
 </a>
 </div>
 <p>It is responsive website for Ecommerce business.User can add favourite products in cart.
 Fisrt time buyer has to create account.For second time purchase user can login and enjoy thier shopping.</p>
-<p>Skills I used here are - React,Redux, React Router, JSX, React-Bootstarp, Bootstarp, CSS,JSON-Server</p>
+<p>Skills I used here are - React,Redux, React Router, JSX, React-Bootstarp, Bootstarp, CSS,JSON-Server,Mongodb,Node,ExpressJs</p>
 
 {/* To enhance security, we also assign the rel attribute with the value of noreferrer. 
 This prevents the opened document from obtaining any information about the page that originated the request. */}
@@ -82,8 +82,7 @@ This prevents the opened document from obtaining any information about the page 
 </Row>
 
 <Row className='m-5'>
-<Col>
-{/* <h2 className='text-uppercase'>4.Birthday Reminder App</h2>
+<Col> <h2 className='text-uppercase'>4.Birthday Reminder App</h2>
 <div className='position-relative contain'>
 <a href='https://birthday-reminder-app-frontend.onrender.com' target="_blank" style={{color:"white"}}>
 <Image src={Birthday} fluid style = {{height:"400px"}} className="conImage"/>
@@ -92,7 +91,7 @@ This prevents the opened document from obtaining any information about the page 
 </div>
 <p>This is responsive web app for birthday reminder. We can store data in application about name, date of birthday of person.
   This app can remind birthday and upcoming birthdays.</p>
-<p>Skills I have used here are - React,Redux,React-Bootstrap, Bootstarp, JSX,JSON-Server</p> */}
+<p>Skills I have used here are - React,Redux,React-Bootstrap, Bootstarp, JSX,JSON-Server</p> 
  
 {/* <Button className='m-3'><a href="https://github.com/BhosalePriyanka/MERN_Birthday_Reminder_App.git" target="_blank" style={{color:"white"}}>Code</a></Button>
 <embed src="https://bhosalepriyanka.github.io/BirthdayReminder/"  className = "mx-auto" style={{width:"100%", height:"30rem"}}/> */} 
