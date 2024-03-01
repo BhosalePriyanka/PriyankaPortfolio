@@ -12,7 +12,7 @@ function Home() {
       <div className="position-absolute" style={{left:"50%", top:"50%", transform:"translate(-50%,-50%)"}}>
       <h1 style = {{ animation : "animate 6s"}}> Hello, I'm Priyanka Bhosale</h1>
       <h2 style ={{ width : "0" , animation:"typing 1s forwards", animationDelay:"1s" , overflow: "hidden", whiteSpace:"nowrap" }} >
-       Front End Developer</h2>
+      Full Stack Developer</h2>
        <Link to={`/Aboutme`}>
        <Button style = {{ animation:"typingButton 6s"}}>About Me</Button>
        </Link>

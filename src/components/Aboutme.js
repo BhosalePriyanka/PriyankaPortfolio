@@ -18,13 +18,13 @@ I have done manual as well automation testing.
 I have used following skill set-
 <ul>
     <li>HTML, CSS, JavaScript.,ES6 </li>
-    <li>React, React Router, React Testing Library, Redux, Hooks.</li>
+    <li>React, React Router,Redux, Hooks.</li>
+    <li>Testing Tools - React Testing Library,JEST,Mocha </li>
     <li> Node, Express</li>
     <li>MySQL, Mongodb</li>
-    <li>Bootstrap, React-Booststar.</li>
-    <li>Version Control System - Git.</li>
+    <li>Bootstrap, React-Booststrap</li>
+    <li>Version Control System - Git,GitHub</li>
     <li>RESTful API & JSON</li>
-    <li>Agile Process</li>
 </ul>
 
 <a href={resume} download = 'Resume'><Button>RESUME DOWNLOAD</Button> </a>
